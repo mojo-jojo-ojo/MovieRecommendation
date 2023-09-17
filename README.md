@@ -1,1 +1,3 @@
-#### A few projects done during TechSim+ internship
+#### Projects done during TechSim+ internship:
+Machine learning & Deep Learning
+
